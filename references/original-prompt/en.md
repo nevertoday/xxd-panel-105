@@ -1,5 +1,3 @@
-# XXD Panel 105 | Original Prompt (English Reading Translation)
-
 Please turn every photograph I upload into a separate premium design poster. Do not combine multiple images; output each photograph individually. Use an overall 3:4 portrait composition, with the upper and lower regions in a strict 1:1 height ratio, each occupying 50% of the image.
 
 Keep the original photograph in the upper half, preserving the subject's identity, structure, pose, authentic texture, natural light and shadow, and original colour atmosphere. Apply only subtle, high-end colour grading so it has the quality of an art magazine, independent publication, or exhibition image. The surrounding environment may be extended naturally to fit the format, but the subject must not be stretched, distorted, or altered.
