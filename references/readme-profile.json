@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 105｜Poetic Space Anthology: first picks the single most beautiful moment in a photo — one core subject with very little else, dropping clutter and ordinary background — then rebuilds it as a poetic minimalist paper collage with monoprint, screen-print and Risograph-style texture: flat paper-like colour pieces cut, torn and layered into simple shapes, grain, dry-brush, missed ink and slight misregistration, a recropped, rescaled composition with one focal point inside large negative space, a soft, clear limited palette distilled from the photo against paper white, and a few quiet words placed like a whispered note in an art publication. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-105 or asks for minimalist cut-paper collage, Risograph or screen-print style, or poetic negative-space art from a photo.",
+  "short_description": "诗意留白集：只挑出照片里最美的一幕，做成 Risograph 质感的极简纸片拼贴",
+  "zh-CN": {
+    "name": "诗意留白集",
+    "tagline": "只挑出照片里最美的一幕，做成一张安静的极简纸片拼贴。",
+    "look": "先从照片里挑出最好看、最有气质的一个主体或关系，其余杂乱背景和普通细节都舍掉。保留的部分被概括成纸片、色块和简单几何形，像剪开、撕下再叠贴上去，带丝网和 Risograph 式的颗粒、漏印、干擦和轻微套色偏差。构图可以重新裁切、放大或偏置，只有一个视觉重心，四周是大片纸白。颜色是从照片里提出的柔和有限色盘，有主色、辅助色和一处点睛。文字只有几个词或一短句，像艺术刊物里的轻声注释。",
+    "traits": ["最美一幕", "极简纸本拼贴", "单版画丝网", "Risograph 质感", "有限色盘", "大面积留白"],
+    "good": [
+      "杂乱但藏着一个好看瞬间的生活照：人群里的一个背影、阳台上的一盆花、桌上一只杯子",
+      "有优美走势的主体：一枝树枝、一只鹭鸟、一道楼梯扶手",
+      "安静、有情绪的旅行或日常照片：清晨的窗、海边的椅子、雨后的路"
+    ],
+    "poor": [
+      "必须保留全部人物或元素的照片：合影、团队照、商品陈列",
+      "需要完整还原场景或细节的需求：建筑记录、产品说明",
+      "想要满版背景、多个并列主体或卡通商业插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Poetic Space Anthology",
+    "tagline": "Picks the single most beautiful moment in a photo and turns it into a quiet, minimal paper collage.",
+    "look": "First the photo's most graceful subject or relationship is chosen, and the clutter, ordinary background and repeated details are let go. What remains is summed up as paper pieces, colour blocks and simple geometric shapes that look cut, torn and layered, with screen-print and Risograph-style grain, missed ink, dry-brush marks and slight misregistration. The composition may be recropped, enlarged or shifted, with a single focal point surrounded by wide paper white. Colours are a soft, limited palette distilled from the photo, with a main colour, a supporting one and one accent. Text is only a few words or a short line, like a quiet note in an art publication.",
+    "traits": ["The one best moment", "Minimal paper collage", "Monoprint and screen print", "Risograph texture", "Limited palette", "Wide negative space"],
+    "good": [
+      "Cluttered everyday photos hiding one lovely moment: a figure in a crowd, a potted flower on a balcony, a cup on a table",
+      "Subjects with a graceful line: a branch, a heron, a staircase rail",
+      "Quiet, moody travel or everyday photos: a morning window, a chair by the sea, a road after rain"
+    ],
+    "poor": [
+      "Photos where every person or item must stay: group shots, team photos, product displays",
+      "Jobs that need the full scene or exact detail: architectural records, product guides",
+      "Requests for a filled background, several equal subjects or cartoon commercial illustration"
+    ]
+  },
+  "ja": {
+    "name": "詩的余白集",
+    "tagline": "写真でいちばん美しい一瞬だけを選び、静かなミニマルな紙のコラージュにします。",
+    "look": "まず写真の中でいちばん美しく、品のある主役や関係をひとつ選び、雑然とした背景や平凡な細部は手放します。残った部分は紙片、色面、単純な幾何形にまとめられ、切って、ちぎって、重ねて貼ったように見えます。シルクスクリーンやリソグラフ風の粒子、かすれ、ドライブラシ、わずかな版ずれが残ります。構図は切り直したり、拡大したり、ずらしたりしてよく、視線の中心はひとつだけ、周りは広い紙の白です。色は写真から取り出した柔らかく限られたパレットで、主色、補助色、差し色がひとつずつ。文字は数語か短い一行だけで、アート誌のささやくような注記のようです。",
+    "traits": ["いちばん美しい一瞬", "ミニマルな紙のコラージュ", "モノプリントとシルクスクリーン", "リソグラフの質感", "限られたパレット", "広い余白"],
+    "good": [
+      "雑然としているけれど美しい瞬間が隠れた日常写真：人混みの中の後ろ姿、ベランダの鉢花、テーブルのカップ",
+      "流れの美しい主役：一本の枝、一羽のサギ、階段の手すり",
+      "静かで気分のある旅や日常の写真：朝の窓、海辺の椅子、雨上がりの道"
+    ],
+    "poor": [
+      "全員、すべての物を残す必要がある写真：集合写真、チームの写真、商品の陳列",
+      "場面全体や細部をそのまま再現したい用途：建築の記録、商品の説明",
+      "背景を埋め尽くす絵、並び立つ複数の主役、カートゥーン調の商業イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시적 여백집",
+    "tagline": "사진에서 가장 아름다운 한 장면만 골라 고요한 미니멀 종이 콜라주로 만듭니다.",
+    "look": "먼저 사진에서 가장 아름답고 기품 있는 주인공이나 관계 하나를 고르고, 어수선한 배경과 평범한 세부는 덜어냅니다. 남은 부분은 종이 조각, 색면, 단순한 기하 도형으로 요약되어 오리고 찢고 겹쳐 붙인 듯 보이며, 실크스크린과 리소그래프풍의 입자, 빠진 잉크, 마른 붓자국, 살짝 어긋난 인쇄가 남습니다. 구도는 다시 자르거나 키우거나 옮길 수 있고, 시선의 중심은 하나뿐이며 주위는 넓은 종이의 흰색입니다. 색은 사진에서 뽑아낸 부드럽고 제한된 팔레트로, 주색, 보조색, 포인트 색이 하나씩입니다. 글자는 몇 단어나 짧은 한 줄뿐으로, 예술 출판물 속 속삭이는 주석 같습니다.",
+    "traits": ["가장 아름다운 한 장면", "미니멀 종이 콜라주", "모노프린트·실크스크린", "리소그래프 질감", "제한된 팔레트", "넓은 여백"],
+    "good": [
+      "어수선하지만 아름다운 순간이 숨어 있는 일상 사진: 인파 속 뒷모습, 발코니의 화분, 탁자 위 컵 하나",
+      "흐름이 아름다운 주인공: 나뭇가지 하나, 왜가리 한 마리, 계단 난간",
+      "고요하고 감정이 담긴 여행·일상 사진: 아침 창가, 바닷가 의자, 비 갠 길"
+    ],
+    "poor": [
+      "모든 사람이나 물건을 남겨야 하는 사진: 단체 사진, 팀 사진, 상품 진열",
+      "장면 전체나 세부를 그대로 살려야 하는 용도: 건축 기록, 제품 설명",
+      "배경을 꽉 채운 그림, 나란히 선 여러 주인공, 카툰풍 상업 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مختارات الفراغ الشعري",
+    "tagline": "يختار أجمل لحظة واحدة في الصورة ويحوّلها إلى كولاج ورقي هادئ شديد البساطة.",
+    "look": "يُختار أولاً أرشق عنصر أو علاقة في الصورة، ويُترك الزحام والخلفية العادية والتفاصيل المكررة. ما يبقى يُلخَّص في قطع ورق ومساحات لونية وأشكال هندسية بسيطة تبدو مقصوصة وممزقة ومتراكبة، مع حبيبات الطباعة الحريرية وأسلوب الريزوغراف، ومواضع فاتها الحبر، وآثار فرشاة جافة، وانزياح طباعي خفيف. يمكن إعادة قص التكوين أو تكبيره أو إزاحته، مع نقطة تركيز واحدة يحيط بها بياض ورق واسع. الألوان لوحة محدودة ناعمة مستخلصة من الصورة، فيها لون رئيسي ولون مساند ولمسة واحدة لافتة. النص بضع كلمات أو سطر قصير فقط، كملاحظة هامسة في مطبوعة فنية.",
+    "traits": ["أجمل لحظة واحدة", "كولاج ورقي بسيط", "طباعة أحادية وحريرية", "ملمس الريزوغراف", "لوحة ألوان محدودة", "فراغ سلبي واسع"],
+    "good": [
+      "صور يومية مزدحمة تخفي لحظة جميلة: شخص من الخلف وسط الزحام، زهرة في أصيص على شرفة، فنجان على طاولة",
+      "عناصر ذات خط رشيق: غصن، طائر بلشون، درابزين درج",
+      "صور سفر أو حياة يومية هادئة ذات مزاج: نافذة الصباح، كرسي على البحر، طريق بعد المطر"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها كل شخص أو غرض: الصور الجماعية، صور الفرق، عروض المنتجات",
+      "أعمال تحتاج إلى المشهد كاملاً أو التفاصيل الدقيقة: التوثيق المعماري، أدلة المنتجات",
+      "طلب خلفية مملوءة أو عدة عناصر متساوية أو رسم تجاري كرتوني"
+    ]
+  }
+}

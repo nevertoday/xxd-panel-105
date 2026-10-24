@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-105
-description: "Create XXD Panel 105 raster artwork: poetic minimalist paper collage that aesthetically selects one memorable subject, removes visual clutter, and rebuilds it with generous negative space, cut-paper forms, monoprint, screen-print, and Risograph texture. Accepts one image or a directory batch and supports top-bottom, left-right, design-only, four-device wallpaper, multiple ratios or exact sizes, and prompt-generated, exact, or text-free typography. Use whenever the user invokes xxd-panel-105 or asks for this quiet memory-excerpt style."
+description: "XXD Panel 105｜Poetic Space Anthology: first picks the single most beautiful moment in a photo — one core subject with very little else, dropping clutter and ordinary background — then rebuilds it as a poetic minimalist paper collage with monoprint, screen-print and Risograph-style texture: flat paper-like colour pieces cut, torn and layered into simple shapes, grain, dry-brush, missed ink and slight misregistration, a recropped, rescaled composition with one focal point inside large negative space, a soft, clear limited palette distilled from the photo against paper white, and a few quiet words placed like a whispered note in an art publication. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-105 or asks for minimalist cut-paper collage, Risograph or screen-print style, or poetic negative-space art from a photo."
 ---
 
 # XXD Panel 105
